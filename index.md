@@ -10,7 +10,7 @@
 
 <div id="contact" class="contact">
   <ul id="menulist">
-    <li class="left"><a href="mailto:marieke@leijderhavenstroom.com">e-mail</a></li>
+    <li class="left"><a href="mailto:mariekeleijderhavenstroom@gmail.com">e-mail</a></li>
     <li class="right"><a href="http://www.linkedin.com/pub/marieke-leijder-havenstroom/48/80a/a53">linkedin</a></li>
   </ul>
 </div>
