@@ -1,7 +1,7 @@
 <html>
 <head><title>M.A. Leijder Havenstroom</title>
 <link rel="STYLESHEET" href="include/style.css">
-<link rel="shortcut icon" href="http://leijderhavenstroom.github.io/favicon.ico">
+<link rel="shortcut icon" href="favicon.ico">
 </head>
 <body>
 
